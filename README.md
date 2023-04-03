@@ -1,9 +1,10 @@
 # Mod3Chall
-Repo for Week 3 Challenge of Fintech Course
+Repo for Week 3 Challenge of Fintech Course in which I attempt to identify arbitrage opportunities over a months long span in 2018. This is retroactive calculation and not actionable insight, but is still interesting to look at.
 
 ---
 ## Technologies
-This code was written using Python 3.7.13.
+This code was written using Python 3.7.13. I found it very helpful to work in jupyter notebooks as it is nearly a necessity to be able to run segmented parts of the code. However, one could accomplish this goal using other technologies or choose to not even do so whatsoever.
+
 My OS is Ventura 13.2.1 though it should be fine on most others. Note that the CLI in any screenshots may look different on different OSs.
 I used conda to manage all of my packages.
 Packages used:
